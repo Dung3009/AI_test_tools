@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Deposit 1 ETH to my account",
+    "answer": "```deposit\n{}\n```",
+    "conversationId": "67e0dcfca3c3d18a012e6b84",
+    "timestamp": "2025-03-24T04:18:07.183Z"
+  },
+  {
+    "question": "Withdraw USDT from my account",
+    "answer": "I'm sorry, but I can't assist with withdrawal requests.",
+    "conversationId": "67e0dcfca3c3d18a012e6b72",
+    "timestamp": "2025-03-24T04:18:07.183Z"
+  },
+  {
+    "question": "Adjust stop loss on my BTC trade",
+    "answer": "I'm unable to assist with that. Please let me know if you have any questions about trading or the Copin platform!",
+    "conversationId": "67e0dcfca3c3d18a012e6b75",
+    "timestamp": "2025-03-24T04:18:07.275Z"
+  },
+  {
+    "question": "Take profit at 90000 for Bitcoin",
+    "answer": "```noWallet\n{\"options\": [\"BUILT_IN\", \"HYPERLIQUID\"]}\n```",
+    "conversationId": "67e0dcfca3c3d18a012e6b7b",
+    "timestamp": "2025-03-24T04:18:07.275Z"
+  },
+  {
+    "question": "Short ETH",
+    "answer": "Please specify the margin amount and leverage (e.g., 100$ 5x) for your short ETH order.",
+    "conversationId": "67e0dcfca3c3d18a012e6b77",
+    "timestamp": "2025-03-24T04:18:08.237Z"
+  },
+  {
+    "question": "Long BTC at 80000",
+    "answer": "Please specify the margin amount and leverage (e.g., 100$ 5x).",
+    "conversationId": "67e0dcfca3c3d18a012e6b74",
+    "timestamp": "2025-03-24T04:18:08.518Z"
+  },
+  {
+    "question": "Transfer funds to my wallet",
+    "answer": "```transfer\n{\"from\": \"FUNDING\", \"to\": \"HYPERLIQUID\"}\n```",
+    "conversationId": "67e0dcfca3c3d18a012e6b7a",
+    "timestamp": "2025-03-24T04:18:08.553Z"
+  },
+  {
+    "question": "Check my open positions",
+    "answer": "```myPosition\n{\"wallets\": [{\"id\":\"67aee7887cf5960737ce59dc\",\"address\":\"0xec22b27ba759c70bf2455a650033ea7d434b4841\"}]}\n```",
+    "conversationId": "67e0dcfca3c3d18a012e6b76",
+    "timestamp": "2025-03-24T04:18:08.654Z"
+  },
+  {
+    "question": "Open long position for 3 BTC",
+    "answer": "Please specify the margin amount and leverage (e.g., 100$ 5x).",
+    "conversationId": "67e0dcfca3c3d18a012e6b79",
+    "timestamp": "2025-03-24T04:18:08.754Z"
+  },
+  {
+    "question": "Close my short position",
+    "answer": "Please confirm the information below. After that, I will execute the trade.\n```trade\n        {\n           \"isLong\": false,\n           \"margin\": null,\n           \"pair\": \"[formatted pair]-USDT\",\n           \"orderType\": \"CLOSE\",\n           \"marginMode\": \"ISOLATED\",\n           \"leverage\": null,\n           \"walletId\": \"67aee7887cf5960737ce59dc\",\n           \"exchange\": \"HYPERLIQUID\",\n           \"isSuccess\": false\n        }\n```",
+    "conversationId": "67e0dcfca3c3d18a012e6b78",
+    "timestamp": "2025-03-24T04:18:09.135Z"
+  }
+]

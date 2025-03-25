@@ -1,0 +1,32 @@
+Question,Answer,Conversation ID,Timestamp
+Deposit 1 ETH to my account,"```deposit
+{}
+```",67e0dcfca3c3d18a012e6b84,2025-03-24T04:18:07.183Z
+Withdraw USDT from my account,"I'm sorry, but I can't assist with withdrawal requests.",67e0dcfca3c3d18a012e6b72,2025-03-24T04:18:07.183Z
+Adjust stop loss on my BTC trade,I'm unable to assist with that. Please let me know if you have any questions about trading or the Copin platform!,67e0dcfca3c3d18a012e6b75,2025-03-24T04:18:07.275Z
+Take profit at 90000 for Bitcoin,"```noWallet
+{""options"": [""BUILT_IN"", ""HYPERLIQUID""]}
+```",67e0dcfca3c3d18a012e6b7b,2025-03-24T04:18:07.275Z
+Short ETH,"Please specify the margin amount and leverage (e.g., 100$ 5x) for your short ETH order.",67e0dcfca3c3d18a012e6b77,2025-03-24T04:18:08.237Z
+Long BTC at 80000,"Please specify the margin amount and leverage (e.g., 100$ 5x).",67e0dcfca3c3d18a012e6b74,2025-03-24T04:18:08.518Z
+Transfer funds to my wallet,"```transfer
+{""from"": ""FUNDING"", ""to"": ""HYPERLIQUID""}
+```",67e0dcfca3c3d18a012e6b7a,2025-03-24T04:18:08.553Z
+Check my open positions,"```myPosition
+{""wallets"": [{""id"":""67aee7887cf5960737ce59dc"",""address"":""0xec22b27ba759c70bf2455a650033ea7d434b4841""}]}
+```",67e0dcfca3c3d18a012e6b76,2025-03-24T04:18:08.654Z
+Open long position for 3 BTC,"Please specify the margin amount and leverage (e.g., 100$ 5x).",67e0dcfca3c3d18a012e6b79,2025-03-24T04:18:08.754Z
+Close my short position,"Please confirm the information below. After that, I will execute the trade.
+```trade
+        {
+           ""isLong"": false,
+           ""margin"": null,
+           ""pair"": ""[formatted pair]-USDT"",
+           ""orderType"": ""CLOSE"",
+           ""marginMode"": ""ISOLATED"",
+           ""leverage"": null,
+           ""walletId"": ""67aee7887cf5960737ce59dc"",
+           ""exchange"": ""HYPERLIQUID"",
+           ""isSuccess"": false
+        }
+```",67e0dcfca3c3d18a012e6b78,2025-03-24T04:18:09.135Z

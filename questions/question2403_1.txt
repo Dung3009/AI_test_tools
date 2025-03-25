@@ -1,0 +1,10 @@
+Long BTC at 80000
+Short ETH
+Open long position for 3 BTC
+Close my short position
+Transfer funds to my wallet
+Deposit 1 ETH to my account
+Check my open positions
+Adjust stop loss on my BTC trade
+Take profit at 90000 for Bitcoin
+Withdraw USDT from my account
